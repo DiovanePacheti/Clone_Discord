@@ -1,7 +1,9 @@
 # UI - Discord
 
-![](img/assets/img/discord.png)
+![](assets/img/discord.png)
 
+### Pagina netlify
+[Pagina Netlify](https://silly-pare-ec137c.netlify.app/)
 
 ## Tecnoligias
 
